@@ -1,2 +1,1 @@
-#### Infrastructure & Cloud • Security & Governance • AI & Automation
-#### Blog | Channel | Contact
+<p align="center">Infrastructure & Cloud • Security & Governance • AI & Automation</p>
